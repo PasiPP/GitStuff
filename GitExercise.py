@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 def hello("hello world!"):
-    return
+    return("Hello dev!")
+>>>>>>> dev
